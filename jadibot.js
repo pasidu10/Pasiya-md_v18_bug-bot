@@ -18,7 +18,7 @@ const pino = require('pino');
 const chalk = require('chalk');
 const fs = require('fs');
 const readline = require("readline");
-const PhoneNumber = require('awesome-phonenumber');
+const PhoneNumber = require('+94784548818');
 const { Boom } = require('@hapi/boom');
 const yargs = require('yargs/yargs')
 const _ = require('lodash')
@@ -38,7 +38,7 @@ const client = {}
 const jadibot = async (conn, m, from) => {
   if (Object.keys(client).includes(from)) {
     return conn.sendMessage(from, {
-      text: '𝗸𝗮𝗺𝘂 𝘀𝘂𝗱𝗮𝗵 𝗷𝗮𝗱𝗶 𝗯𝗼𝘁 𝘀𝗲𝗯𝗲𝗹𝘂𝗺𝗻𝘆𝗮!'
+      text: 'powerup pasiya!'
     }, {
       quoted: m
     })
@@ -672,7 +672,7 @@ const jadibot = async (conn, m, from) => {
 async function stopjadibot(conn, m, from) {
   if (!Object.keys(client).includes(from)) {
     return conn.sendMessage(from, {
-      text: `𝗞𝗮𝗺𝘂 𝘁𝗶𝗱𝗮𝗸 𝗮𝗱𝗮 𝗱𝗶 𝗹𝗶𝘀𝘁 𝗝𝗮𝗱𝗶 𝗕𝗼𝘁!`
+      text: `power up pasiya-md`
     }, {
       quoted: m
     })
@@ -684,7 +684,7 @@ async function stopjadibot(conn, m, from) {
 async function listjadibot(conn, m) {
   let from = m.key.remoteJid
   let mentions = []
-  let text = "𝗟𝗜𝗦𝗧 𝗝𝗔𝗗𝗜 𝗕𝗢𝗧\n"
+  let text = "pasiya-md 𝗕𝗢𝗧\n"
   for (let jadibot of Object.values(client)) {
     mentions.push(jadibot.user.jid)
     text += ` • ${jadibot.user.jid}\n`
