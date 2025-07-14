@@ -13,28 +13,27 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS OWNER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ \\
-global.owner = ["628812023752"] // Ganti No Owner Ada Di Database/owner.json
-global.ownername = "Risky Hosting"
+global.owner = ["+94784548818"] // Ganti No Owner Ada Di Database/owner.json
+global.ownername = "pasidu sampath"
 global.website = "https://xnxx.com/"
-global.idch = ['120363393264886498@newsletter'] 
-global.idch2 = ['120363420479394526@newsletter']
-global.ceha = "https://whatsapp.com/channel/0029VakX8k0KGGGGka6PFN00"
-global.yt = "https://www.youtube.com/@risky_hosting"
+global.idch = ['120363402825685029@newsletter'] 
+global.idch2 = ['120363402825685029@newsletter']
+global.ceha = "https://whatsapp.com/channel/0029VbBfcs789iniJkpPNR1t"
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ SETTINGS BOT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-global.typemenu = 'v1'
-global.namabot = "Angel Multi Device"
-global.botkapital = "ANGEL"
+global.typemenu = 'v13'
+global.namabot = "PASIYA-MDv.12"
+global.botkapital = "pasidu sampath"
 global.baileys = "@ᴡʜɪsᴋᴇʏsᴏᴄᴋᴇᴛs"
 global.autoread = true
 global.autotyping = true
 global.autobio = false
-global.nomorbot = "628812023752"
+global.nomorbot = "+94784548818"
 global.version = "5.5.0"
-global.linkgc = "https://chat.whatsapp.com/ImntQ24I4roJCSxtBqakvJ"
+global.linkgc = "https://whatsapp.com/channel/0029VbBfcs789iniJkpPNR1t"
 global.packname = 'Botz By'
-global.author = 'Risky\nAngel'
-global.foother = 'Created By Risky'
+global.author = 'pasidu sampth '
+global.foother = 'Created By pasiya'
 global.dana = "isi"
 global.ovo = ""
 global.gopay = ""
@@ -169,7 +168,7 @@ global.kuismath = {};
 global.mess = {
     success: 'sᴜᴄᴄᴇssғᴜʟʏ',
     admin: '[ !! ] *sʏsᴛᴇᴍ*\nᴋʜᴜsᴜs ᴀᴅᴍɪɴ ɢʀᴏᴜᴘ',
-    botAdmin: '[ !! ] *sʏsᴛᴇᴍ*\nᴀᴋᴀᴍᴇ ʙᴇʟᴜᴍ ᴊᴀᴅɪ ᴀᴅᴍɪɴ',
+    botAdmin: '[ !! ] *POWER BUY PASIYA',
     creator: '[ !! ] *sʏsᴛᴇᴍ*\nғᴇᴀᴛᴜʀᴇ ɪɴɪ ᴋʜᴜsᴜs ᴏᴡɴᴇʀ',
     group: '[ !! ] *sʏsᴛᴇᴍ*\nғᴇᴀᴛᴜʀᴇ ɪɴɪ ᴋʜᴜsᴜs ɢʀᴏᴜᴘ ᴀᴊᴀ',
     private: '[ !! ] *sʏsᴛᴇᴍ*\nғᴇᴀᴛᴜʀᴇ ᴋʜᴜsᴜs ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ ᴀᴋᴀᴍᴇ',
