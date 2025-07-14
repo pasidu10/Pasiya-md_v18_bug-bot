@@ -1,9 +1,9 @@
 /*
 
- * Created : Kyy
+ * Created : 
  * Base Ori : Eriza
- * NoWa : 6288286624778
- * Myt : @KyyXdz
+ * NoWa :+94784548818
+ * Myt : pasidu sampath
  
  * Hargai Pengembang Dengan Cara Tidak Menghapue Credit Untuk Yang Upload Di Tambahan Tag Yt Atas Dan Rename Juga Untuk Menghargai Pengembang Dengan Cara Tidak Menghapus Credit
 
